@@ -1,0 +1,55 @@
+<!--
+FORMATTING:
+• (!line) - new line
+• (!bold/TEXT) - bold text
+• (!underline/TEXT) - underlined text
+• (!italic/text) - italic text
+• (!color/#HEX/TEXT) - colored text
+• (!emoji/EMOJI.png) - emoji
+• (!size/XXpx/TEXT) - text size
+• (!youtube/VIDEO_URL) - youtube video
+• (!button/#HEX/ICON.png/LINK/TEXT) - button
+• (!hr) - horizontal line
+-->
+
+<credits>
+  <page 
+  noImage="false"
+  image="mod-credits/01c_ragil-hd.png"
+  title="Thank You So Much For Playing!"
+  text="Everything in this mod was made by (!color/#1ECD62/(!bold/RagDeWann)). I really hope you enjoy this mod! (!emoji/emoji_ragheart.png)(!line)(!line)
+  You can check out my (!color/#FF0035/(!bold/Youtube channel)) if you want more content from me,(!line)
+  And my (!color/#F79000/(!bold/Scratch projects)) to see my past Incredibox projects!(!line)(!line)(!hr)(!line) 
+  (!button/#1ECD62/social_youtube.png/https://www.youtube.com/@RagTheOne721//My Channel)
+  (!button/#F9AA39/social_scratch.png/https://scratch.mit.edu/users/RagDeWann//My Scratch Profile)"
+  />
+  <page 
+  noImage="false"
+  image="mod-credits/02c_nyanko-hd.png"
+  title="Support the original creator!"
+  text="This mod was based off (!bold/Sprunki), an Incredibox fangame made by (!color/#0094ff/(!bold/NyankoBf))! (!line)(!line) 
+  You can see his other (!bold/Incredibox) projects that you can play in his (!color/#FFD800/(!bold/Cocrea profile)),(!line) 
+  And check out his (!color/#FF0035/(!bold/Youtube channel)) for any news about his stuff! (!line)(!line)(!hr)(!line) 
+  (!button/#0094FF/social_youtube.png/https://www.youtube.com/@nyankobflol22//Nyanko's Channel)
+  (!button/#191D1F/social_cocrea.png/https://www.cocrea.world/@NyankoBfLmao//Nyanko's Cocrea Profile)"
+  />
+  <page 
+  noImage="false"
+  image="mod-credits/03c_specialthanks-hd.png"
+  title="Special Thanks!"
+  text="Credits to (!color/#8162CC/(!bold/GegeRange)) for making this mod's mobile port! (!line) We've also created some Incredibox mods together, so make sure to check out his stuff! (!line)(!line) (!button/#8162CC/social_youtube.png/https://www.youtube.com/@GegsPunchLine//Gegs' Channel) (!line)(!line)(!hr)(!line) 
+  And credits to (!color/#64b1e8/(!bold/Rem)) for this wonderful (!bold/Incredibox modding template)! (!line) Please go support and explore her stuff she did for the Incredibox community! (!line)(!line) (!button/#64b1e8/social_youtube.png/https://www.youtube.com/@rin.Incredibox//Rem's Channel) (!line)(!line)(!hr)(!line)
+  Also, credits to these people that I used designs from their own(!line)Sprunki spin-offs in Bonus 1! (in order); (!line)(!line) (!emoji/emoji_draker.png) (!color/#FFAF00/(!bold/Draker) :) Sprunked, Sprunki 1996 (!line) (!emoji/emoji_coolskull212.png) (!color/#5B5B5B/(!bold/CoolSkull212) :) Sprunki Retake (!line) (!emoji/emoji_pyraminx.png) (!color/#B200FF/(!bold/Pyraminx) :) Sprunki Pyraminxed"
+  />
+  <page 
+  noImage="false"
+  image="mod-credits/04c_sofarsogood-hd.png"
+  title="INCREDIBOX BY SO FAR SO GOOD!"
+  text="And of course, this is a mod of Incredibox, a game by (!bold/SO FAR SO GOOD)!(!line)Without them, this project wouldn't exist! (even Sprunki woudn't exist,,, ohmyjod..,.)(!line)(!line)
+  Learn more about (!bold/Incredibox) and purchase the original game! (!line)(!line) (!button/#4A4A4A/sfsg-credits-button.png/https://www.incredibox.com//Incredibox Website)(!button/#4A4A4A/sfsg-credits-button.png/https://www.incredibox.com/info/store/Buy Incredibox) (!line)(!line)(!hr)(!line)
+  You can also learn more about the people behind (!bold/SO FAR SO GOOD) by visiting their website! (!line)(!line) (!button/#000000/sfsg-website.png/https://www.sofarsogood.fr//So Far So Good's Website)(!line)(!line)(!hr)(!line)Pump it up and chill!"
+  />
+</credits>
+
+rem tupe shi : Incredibox Modding Build created with passion by (!color/#64b1e8/(!bold/Rem))! Love creative mods and unique sounds? Support her work and explore more on her channel! (!line)(!line)(!hr)(!line) (!button/#8f1e22/social_youtube.png/https://www.youtube.com/@rin.Incredibox//Rem's Channel)
+<!--You can edit or change my credits, but please remember to credit me somewhere as well for using my build! Thank you! ✨-->
