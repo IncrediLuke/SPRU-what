@@ -1,0 +1,17 @@
+<!--  
+HOW TO USE IT:
+• <line> category is used to create a new line (using more than 3 might cause issues)
+• name="TEXT" is the name of the icon
+• ID="NUMBER" is the ID of the icon 
+• color="#HEX" is the color of the title and checkmark
+• locked="true/false" is the lock status of the icon, if its locked it will be impossible to open
+• customName="true/false" if its enabled, it will use name of your version instead of the one from the switch-bt-title-tiny@2x.png
+• customIcon="asset-v1/ICON.png" is the path to the icon, removing customIcon will use the default one from switch-bt-visu-1@2x.png
+• hidden="true/false" if its enabled, it will hide the icon from the list
+ -->
+
+<icons>
+  <line>
+    <icon name="SPRU-what?" ID="1" color="#53A6DC" locked="false" customName="false" customIcon="asset-v1/icon.gif" hidden="false"></icon>
+  </line>
+</icons>
